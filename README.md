@@ -509,5 +509,6 @@ Yao Wang- https://github.com/YaoMaker
 Mingke Yu- https://github.com/MikoYu/DigitalElectronics_S18_Mingke
 Annika Bastacky - https://github.com/abastacky/Digital-Electronics
 Jinghan Luo - https://github.com/JinghanLuo/DigitalElectronics
+Lingyin Du - https://github.com/lingyindu/Digital-Electronics-
 
 
